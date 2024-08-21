@@ -6,5 +6,5 @@ Jaro 2h
 Leven 11h
 
 LLM (GPT4 32K): 2h
-Starting Azure OpenAI-based company detection:
-Progress: 0.59% - Est. time remaining: 7358.38sError parsing OpenAI response. Returning empty list
+
+Vectorization avec TfidfVectorizer() >> less than 10 sec
